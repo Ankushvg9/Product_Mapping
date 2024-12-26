@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "676d16e27009ea3817bb4df4"
+  },
+  "supplierName": "A4 Copy Paper 500 sheets",
+  "standardName": "A4 sheets",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d17167009ea3817bb4df7"
+  },
+  "supplierName": "A4 Paper 500sh",
+  "standardName": "A4 sheets",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d17767009ea3817bb4dfa"
+  },
+  "supplierName": "500 Sheets A4",
+  "standardName": "A4 sheets",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d17e87009ea3817bb4e03"
+  },
+  "supplierName": "Sticky Notes 3x3",
+  "standardName": "Sticky Notes",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d18287009ea3817bb4e06"
+  },
+  "supplierName": "Post-it  Notes 3x3 Yellow",
+  "standardName": "Sticky  Notes",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d186b7009ea3817bb4e0b"
+  },
+  "supplierName": "3x3 Yellow Sticky Notes",
+  "standardName": "Sticky Notes",
+  "__v": 0
+}]
